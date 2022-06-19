@@ -1,0 +1,3 @@
+# 3D Game Engine (w/ LWJGL3)
+
+This project is a 3D game engine written in Java, utilizing the Lightweight Java Game Library 3 (LWJGL3). Much of this engine was built by following the online tutorials by <a href="https://www.youtube.com/watch?v=fW19iG9Hkrk&t=475s">CodingAP</a>. The engine is no longer functional because of its dependency on the Slick2D library which is no longer compatible with LWJGL3.
